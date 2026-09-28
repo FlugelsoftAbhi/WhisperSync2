@@ -1,0 +1,6 @@
+{
+  "name": "WhisperSync - In-Thread Private Group Messenger",
+  "description": "WhatsApp and Messenger hybrid featuring seamless In-Thread Private Whispers to message group members privately without leaving the shared conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
